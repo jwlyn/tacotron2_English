@@ -1,6 +1,6 @@
 # tacotron2-english
 English TTS using tacotron2 and ljs dataset
-Inspired and modified from https://github.com/NVIDIA/tacotron2 
+inspired and modified from https://github.com/NVIDIA/tacotron2 
 
 Waveglow could be downloaded at
 https://drive.google.com/file/d/14DRiUoHRqTNcHcVZkseBDiqF5gwKYJFd/view?usp=sharing

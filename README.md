@@ -10,4 +10,4 @@ https://drive.google.com/file/d/14DRiUoHRqTNcHcVZkseBDiqF5gwKYJFd/view?usp=shari
 
 Simply run Demo.ipynb to have the resulted audio sample:[test_audio](https://drive.google.com/file/d/1R019zdxgqQd8oigcnY7MQJ9iVPcuIv7A/view?usp=sharing)
 
-The training result could be found in tts-result folder.
+The training result could be found in tts-result folder. Due to the limitation of time, I have only trained for 5000 epoches, will update results for more epoches in the future.
